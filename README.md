@@ -32,3 +32,10 @@ Upgrade pip in virtualenv
 ```
 ./bin/python -m pip install --upgrade pip
 ```
+
+### Work with Python interpreters vscode
+
+Select and activate an environment:
+```
+Ctrl+Shift+P
+```
